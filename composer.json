@@ -7,7 +7,9 @@
     "require": {
         "php": ">=5.3.0"
     },
-    "psr-4": {
-        "vbcod\\": "src/"
+    "autoload": {
+        "psr-4": {
+            "vbcod\\": "src"
+        }
     }
 }
