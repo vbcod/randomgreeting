@@ -2,7 +2,7 @@
     "name": "vbcod/randomgreeting",
     "description": "Generate Random Greeting",
     "type": "library",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.3.0"
     },
